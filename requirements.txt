@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ctransformers==0.2.5
 sentence-transformers==2.2.2
 pinecone-client
 langchain==0.0.225
 flask
+=======
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client
+langchain==0.0.225
+flask
+>>>>>>> 636b72aa7a9b2318aae579b8458f7c0347922797
 pypdf

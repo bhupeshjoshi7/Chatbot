@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 data/ML.pdf
 .env
+=======
+data/ML.pdf
+.env
+>>>>>>> 636b72aa7a9b2318aae579b8458f7c0347922797
 model/llama-2-7b-chat.ggmlv3.q4_0.bin
